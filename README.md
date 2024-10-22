@@ -94,7 +94,7 @@ The goal is to compare the performance of each model in predicting stock closing
 To run this project locally, follow these steps:
 
 1.	Clone the repository:
-git clone https://github.com/mohit0825/Stock-Market-Trend-Prediction-Using-Time-Series-Analysis.git
+git clone https://github.com/mohit0825/Stock-Market-Trend-Prediction-Using-Time-Series-Analysis-With-Python.git
 
 2.	Navigate into the project directory:
 cd Stock-Market-Trend-Prediction-Using-Time-Series-Analysis
